@@ -10,7 +10,7 @@
     xmlns:ui="http://schemas.modernwpf.com/2019"
     Title="CoreDirector"
     Width="500"
-    Height="350"
+    Height="450"
     Background="Transparent"
     ShowInTaskbar="False"
     Topmost="True"
